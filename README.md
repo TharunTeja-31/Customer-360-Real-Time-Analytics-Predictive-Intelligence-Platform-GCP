@@ -6,7 +6,7 @@ An end-to-end, enterprise-ready data engineering and analytics platform built to
 
 # 📸 Dashboard Preview
 
-![Customer 360 Dashboard](public/dashaboard.jpeg)
+![Customer 360 Dashboard](./public/dashabord.jpeg)
 
 ---
 
