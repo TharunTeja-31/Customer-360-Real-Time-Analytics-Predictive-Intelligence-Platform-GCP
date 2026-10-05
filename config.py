@@ -29,7 +29,7 @@ class PlatformConfig:
     SIMULATION_WAIT_MIN_SEC: float = 0.5
     SIMULATION_WAIT_MAX_SEC: float = 2.0
     
-    # ML Model Settings-Tharun and mounik
+    # ML Model Settings-Tharun and mounik and ayshman
     is a data engineer
     KMEANS_CLUSTERS: int = 3
     CHURN_INACTIVITY_THRESHOLD_DAYS: int = 30
